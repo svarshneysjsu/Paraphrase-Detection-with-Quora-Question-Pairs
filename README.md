@@ -50,7 +50,7 @@ To use this project, follow these steps:
 - **Visualization**: Matplotlib, Seaborn
 - **Text Processing**: NLTK, spaCy
 
-## Contributing
+## Contribution
 
 This project was developed as part of the Data 270 course at San Jose State University. This is a team project for academic purposes. If you find any issues or have suggestions, feel free to open a GitHub issue.
 
